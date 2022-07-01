@@ -56,3 +56,5 @@
 ```
    git reset <commit hash>
 ```
+
+Раз два три :)
