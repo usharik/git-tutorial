@@ -56,3 +56,6 @@
 ```
    git reset <commit hash>
 ```
+
+
+Тестирование
