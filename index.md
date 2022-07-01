@@ -49,4 +49,10 @@
 ```
    git clone <url to repository>
 ```
-aaaa
+
+## Сброс изменений 
+
+Для сброса изменений в текущей ветке введите команду
+```
+   git reset <commit hash>
+```
