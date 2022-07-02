@@ -55,6 +55,14 @@
 Для сброса изменений в текущей ветке введите команду
 ```
    git reset <commit hash>
+
+
+## Pull request 
+
+In order to create a pull request you have to enter the following command 
+```
+git push --set--upstream origin <branch_name>
 ```
 
-## Тестовое изменение
+
+
